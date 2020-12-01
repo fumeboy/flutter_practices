@@ -17,3 +17,7 @@
 ## a5
 
 [通讯列表](https://github.com/fumeboy/flutter_practices/tree/main/a5/readme)
+
+## a6
+
+[Checkbox](https://github.com/fumeboy/flutter_practices/tree/main/a6/readme)
